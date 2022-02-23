@@ -12,8 +12,8 @@ Aim 2: Explore how goal range affect the percentage of the outcome of the campai
 
 ## Analysis and Challenges
 
-For aim 1: Creating a proper pivot tables with appropriate fields. Deleting campaigns in progress and selecting "months" as data for X axis. 
-For aim 2: Using countifs function to count number of campaings in each goal range and each outcome
+- For aim 1: Creating a proper pivot tables with appropriate fields. Deleting campaigns in progress and selecting "months" as data for X axis. 
+- For aim 2: Using countifs function to count number of campaings in each goal range and each outcome
 
 ### Analysis of Outcomes Based on Launch Date
 
