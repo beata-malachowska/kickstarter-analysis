@@ -17,7 +17,7 @@ Aim 2: Explore how goal range affect the percentage of the outcome of the campai
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater outcome based on launch date] (https://github.com/beata-malachowska/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater outcome based on launch date] (https://github.com/beata-malachowska/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
