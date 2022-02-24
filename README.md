@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Kickstarter dataset was used in order to perform an analysis to show which compaigns are successful one. (They asked me to do it at the BootCamp training so I did it.)
+Kickstarter dataset was used in order to perform an analysis to show which compaigns are successful one. 
 
 ### Purpose
 
