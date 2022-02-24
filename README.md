@@ -22,7 +22,7 @@ Aim 2: Explore how goal range affect the percentage of the outcome of the campai
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcome based on Goal] (https://github.com/beata-malachowska/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Goal.png)
+![Outcome based on Goal] (https://github.com/beata-malachowska/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
